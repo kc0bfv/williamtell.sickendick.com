@@ -1,0 +1,20 @@
+baseURL: "https://williamtell.sickendick.com/"
+languageCode: "en-us"
+title: "William Tell Sickendick Home"
+theme: hugo-geekdoc
+#googleAnalytics:
+
+pygmentsUseClasses: true
+pygmentsCodeFences: true
+disablePathToLower: true 
+#enableGitInfo: true
+
+taxonomies:
+  tag: tags
+
+params:
+  description: "A reference wiki for the Sickendick William Tell home"
+  geekdocLogo: "home.svg"
+  geekdocRepo: "https://github.com/kc0bfv/williamtell.sickendick.com"
+  geekdocEditPath: "edit/main/content"
+  geekdocListUseTOC: true
