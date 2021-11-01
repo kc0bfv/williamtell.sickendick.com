@@ -18,3 +18,8 @@ params:
   geekdocRepo: "https://github.com/kc0bfv/williamtell.sickendick.com"
   geekdocEditPath: "edit/main/content"
   geekdocListUseTOC: true
+
+markup:
+  goldmark:
+    extensions:
+      table: true
