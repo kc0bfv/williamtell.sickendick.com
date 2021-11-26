@@ -1,4 +1,5 @@
 /* Global customization */
+iframe { width: 100%; height: 60vh; }
 
 /* Light mode theming */
 :root,
